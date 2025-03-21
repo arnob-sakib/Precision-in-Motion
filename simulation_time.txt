@@ -1,0 +1,9 @@
+
+Full Simulation time: 3.501312017440796 seconds
+Total iterations of A* algorithm used:   6
+Algorithm total run time:   0.7447383403778076 seconds
+Algorithm average run time:   0.1241230567296346 seconds
+Original cost to reach goal:   512 steps
+Total cost to reach goal:   32 steps
+Total path length:   511
+Total number of turns:   25
